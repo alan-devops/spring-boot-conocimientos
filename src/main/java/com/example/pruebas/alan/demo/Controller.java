@@ -9,10 +9,12 @@ public class Controller {
 
   public void metodo2() {
     System.out.println("prueba 2");
+    System.out.println("prueba meter 2");
   }
 
   public void metodo3() {
     System.out.println("prueba 3");
+    System.out.println("prueba meter 3");
   }
 
   public void metodo4(){
@@ -21,6 +23,7 @@ public class Controller {
 
   public void metodo5(){
     System.out.println("prueba 5");
+    System.out.println("prueba meter 5");
   }
 
 }
