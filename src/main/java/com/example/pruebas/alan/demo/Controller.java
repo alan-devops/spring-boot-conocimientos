@@ -15,4 +15,12 @@ public class Controller {
     System.out.println("prueba 3");
   }
 
+  public void metodo4(){
+    System.out.println("prueba 4");
+  }
+
+  public void metodo5(){
+    System.out.println("prueba 5");
+  }
+
 }
