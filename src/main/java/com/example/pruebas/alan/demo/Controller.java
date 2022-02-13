@@ -1,5 +1,8 @@
 package com.example.pruebas.alan.demo;
 
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
 public class Controller {
 
 
@@ -30,6 +33,10 @@ public class Controller {
 
   public void metodo5(){
     System.out.println("prueba 5");
+  }
+
+  public void metodo6(){
+    System.out.println("prueba 6");
   }
 
 }
