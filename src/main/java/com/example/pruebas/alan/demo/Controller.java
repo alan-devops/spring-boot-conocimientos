@@ -15,8 +15,17 @@ public class Controller {
     System.out.println("prueba 3");
   }
 
+
+  public void metodo31(){
+    System.out.println("prueba 31");
+  }
+
   public void metodo4(){
     System.out.println("prueba 4");
+  }
+
+  public void metodo41 (){
+    System.out.println("prueba 42");
   }
 
   public void metodo5(){
