@@ -26,10 +26,6 @@ public class Controller {
   }
 
 
-  public void metodo31(){
-    System.out.println("prueba 31");
-  }
-
   public void metodo4(){
     System.out.println("prueba 4");
   }
@@ -46,9 +42,6 @@ public class Controller {
   public void metodo6(){
     System.out.println("prueba 6");
   }
-
-  public void metodo6(){
-    System.out.println("prueba 6");
-  }
+  
 
 }
