@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
+  private static final String MAIN = "Main";
 
   public void metodo1() {
     System.out.println("prueba 1");
@@ -43,5 +44,12 @@ public class Controller {
     System.out.println("prueba 6");
   }
   
+  public void metodo7(){
+    System.out.println("prueba 7");
+  }
+  
+  public void metodo8(){
+   System.out.println("prueba 8");
+  }
 
 }
